@@ -2,8 +2,8 @@
  
  Day 1: April 05, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished 10 hours worth of HTML, CSS & Bootstrap tutorials and challenges in 4 hours. Nice refresher!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I've been afraid of CSS and Bootstrap in the past (I realize now it was only because I didn't have deep enough understanding of it) but now I feel so good and confident!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://github.com/mrinsin/100daysofcode/commits/master
