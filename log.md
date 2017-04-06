@@ -2,11 +2,11 @@
  
  Day 1: April 05, 2017
 
-**Today's Progress**: Finished 10 hours worth of HTML, CSS & Bootstrap tutorials and challenges in 4 hours. Nice refresher!
+**Today's Progress**: Finished 15 hours worth of HTML, CSS, Bootstrap & jQuery tutorials and challenges, coded until 3 am. My dog died on Monday, and when I am sad I either stop working or work way way too much. I guess at least I was productive?
 
 **Thoughts**: I've been afraid of CSS and Bootstrap in the past (I realize now it was only because I didn't have deep enough understanding of it) but now I feel so good and confident!
 
-**Link(s) to work**: https://github.com/mrinsin/100daysofcode/commits/master
+**Link(s) to work**: https://github.com/mrinsin/100daysofcode/commits/master  , https://codepen.io/mrinsin/pen/VpOwoR
  
  Day 2: April 06, 2017
 
