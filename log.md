@@ -1,6 +1,6 @@
  100 Days Of Code - Log
  
- Day ***1***: April 05, 2017
+ ***Day 1: April 05, 2017***
 
 **Today's Progress**: Finished 15 hours worth of HTML, CSS, Bootstrap & jQuery tutorials and challenges, coded until 3 am. My dog died on Monday, and when I am sad I either stop working or work way way too much. I guess at least I was productive?
 
@@ -8,7 +8,7 @@
 
 **Link(s) to work**: https://github.com/mrinsin/100daysofcode/commits/master  , https://codepen.io/mrinsin/pen/VpOwoR
  
- Day ***2***: April 06, 2017
+ ***Day 2: April 06, 2017***
 
 **Today's Progress**: Spent ~4hrs mob programming our personal project - a rails wedding organizer app! We got some good understanding of how to add custom fields to a Devise user model.
 
@@ -16,7 +16,7 @@
 
 **Link(s) to work**:https://github.com/jessmccay/wedding_app/commit/390b5fa040ecd2dcb512c212cb7b29d372a8d9db
 
-Day ***3***: April 07, 2017
+ ***Day 3: April 07, 2017***
 
 **Today's Progress**: Another monrning of mob programming. The three of us completed testing for the previous days features (both feature and unit tests), and then proceeded to add and test an entire new feature! two stories complete.
 
@@ -24,7 +24,7 @@ Day ***3***: April 07, 2017
 
 **Link(s) to work**: https://github.com/jessmccay/wedding_app/commits/new_tasks
 
-Day ***4***: April 09, 2017
+ ***Day 4: April 08, 2017***
 
 **Today's Progress**: I spent several hours working on the JavaScirpt section of the Front End Certification course on freeCodeCamp. Today was interesting - I learned about switch cases and did some practice excercises on the topic. 
 
