@@ -30,4 +30,13 @@
 
 **Thoughts**: I learned something new! We were never taught about this at the bootcamp so I get really excited when I learn something new [computer science related lol].
 
-**Link(s) to work**: https://github.com/jessmccay/wedding_app/commits/new_tasks
+**Link(s) to work**: https://github.com/mrinsin/100daysofcode/commits/master
+
+ ***Day 5: April 09, 2017***
+
+**Today's Progress**: I completed the JavaScirpt section of the Front End Certification course on freeCodeCamp. 
+
+**Thoughts**: I really enjoyed it - I feel like I learned a lot about Data structures. And I finally actually understood JSON!! It feels great.
+
+**Link(s) to work**: https://github.com/mrinsin/100daysofcode/commits/master
+
