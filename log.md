@@ -40,3 +40,11 @@
 
 **Link(s) to work**: https://github.com/mrinsin/100daysofcode/commits/master
 
+***Day 6: April 10, 2017***
+
+**Today's Progress**: We spent another morning mob programming features and tests for our secret wedding app. Today we learned about seed data, in order to hard code instances of certain objects.
+
+**Thoughts**: I loved learning it! Learned many other new rake db: commands! We were (and still are) stuck on how to load seed data into specific rspec files for a long long time. It got me quite frsutrated, especially because we ran out of time todeal with itfor today, so it's on hold until our next session. Well, anyway...
+
+**Link(s) to work**: https://github.com/jessmccay/wedding_app/commits/taskbutton
+
