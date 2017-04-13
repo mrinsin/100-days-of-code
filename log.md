@@ -48,3 +48,19 @@
 
 **Link(s) to work**: https://github.com/jessmccay/wedding_app/commits/taskbutton
 
+***Day 7: April 11, 2017***
+
+**Today's Progress**: I revisited creating a rails app as a warm up --an apartment listings app!
+
+**Thoughts**: Not much. Easy peasy
+
+**Link(s) to work**: https://github.com/mrinsin/apartment_appp/commits/master
+
+***Day 8: April 12, 2017***
+
+**Today's Progress**: Another day that flew by because of coding! I added authentication and authorization to my apartment app. Enlightening!
+
+**Thoughts**: I finally got a good understanding and loads of practice with devise, omniauth (A SUCCESS--- and only 2.5 hour sof me tearing my ahir out!), cancancan, rolify. Funfunfun
+
+**Link(s) to work**: https://github.com/mrinsin/apartment_appp/commits/master
+
