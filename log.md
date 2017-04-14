@@ -64,3 +64,11 @@
 
 **Link(s) to work**: https://github.com/mrinsin/apartment_appp/commits/master
 
+***Day 9: April 13, 2017***
+
+**Today's Progress**: Cancancan, Rolify
+
+**Thoughts**: I finally learned how to completely and properyly use Cancancan and Rolify to add authorization of resources to my apps.
+Testing is always the hardest part hahaha. I absolutely love Rspec though! ALSO I learned about the ***database_cleaner*** gem.
+
+**Link(s) to work**: https://github.com/mrinsin/apartment_appp/commit/612666f36e355464180dfe6d54130802c9502f24
