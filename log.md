@@ -72,3 +72,11 @@
 Testing is always the hardest part hahaha. I absolutely love Rspec though! ALSO I learned about the ***database_cleaner*** gem.
 
 **Link(s) to work**: https://github.com/mrinsin/apartment_appp/commit/612666f36e355464180dfe6d54130802c9502f24
+
+***Day 10: April 25, 2017***
+
+**Today's Progress**: More Cancancan, Rolify
+
+**Thoughts**: I sadly had to take a little hiatus from coding due to a brief illness alng with a death in the family. Butttt I finally completed cancan and rolify testing! Feeling good and ready for the next 90 days!
+
+**Link(s) to work**:https://github.com/mrinsin/apartment_appp/commit/bbf9d328f8db6f63da8ec3e92ea98fa34c8c8e9a
