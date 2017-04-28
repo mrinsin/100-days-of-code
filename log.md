@@ -80,3 +80,19 @@ Testing is always the hardest part hahaha. I absolutely love Rspec though! ALSO 
 **Thoughts**: I sadly had to take a little hiatus from coding due to a brief illness alng with a death in the family. Butttt I finally completed cancan and rolify testing! Feeling good and ready for the next 90 days!
 
 **Link(s) to work**:https://github.com/mrinsin/apartment_appp/commit/bbf9d328f8db6f63da8ec3e92ea98fa34c8c8e9a
+
+***Day 11: April 26, 2017***
+
+**Today's Progress**: I learned some basic command line functions for node.js
+
+**Thoughts**: I'm excited to jump deeper into full stack JS!!
+
+**Link(s) to work**:https://github.com/mrinsin/100daysofcode/commit/c453df86d8025d546a8a51b6bbba09fcd66adf10
+
+***Day 12: April 27, 2017***
+
+**Today's Progress**: JavaScript brush up - JSON
+
+**Thoughts**: I completed the password checker challenge and did some brushing up on JSON ( js objects)
+
+**Link(s) to work**:https://github.com/mrinsin/100daysofcode/commit/c453df86d8025d546a8a51b6bbba09fcd66adf10
